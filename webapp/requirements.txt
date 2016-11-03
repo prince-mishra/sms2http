@@ -1,0 +1,6 @@
+Django<1.9
+django-tastypie
+uwsgi
+pycrypto
+requests
+sendgrid

@@ -1,0 +1,1 @@
+http://<server>:<port>/api/v1/sms/?format=json&username=<username>&api_key=<api_key>&phone_id=<phone_id>

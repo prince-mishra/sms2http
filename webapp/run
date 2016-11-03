@@ -1,0 +1,1 @@
+nohup uwsgi --ini /apps/sms2http/webapp/sms2http_wsgi.ini >/var/log/sms2http/sms2http.out &
